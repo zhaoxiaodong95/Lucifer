@@ -1,1 +1,1 @@
-Pamphlet for camera, contains two versions: one with text-shadows, and one without.
+Pamphlet for camera, contains two versions: one with text-shadows and one without.
